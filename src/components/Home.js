@@ -66,7 +66,7 @@ const Home = () => {
           </div>
           <div className="gallery-wrapper">
             {/* <Link to="/gallery" className="gallery">Gallery</Link> */}
-            <div className="Gallery" onClick={() => scrollToSection('.color-palette')} >Gallery</div>
+            <div className="Gallery" onClick={() => scrollToSection('.color-palette')} >GALLERY</div>
           </div>
           <div className="info-wrapper">
             {/* <Link to="/info" className="info">Info</Link> */}
