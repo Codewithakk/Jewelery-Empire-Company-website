@@ -1,0 +1,93 @@
+.text-block-child {
+  height: 25rem;
+  width: 0;
+  position: relative;
+  object-fit: contain;
+}
+.frame-group1 {
+  position: relative;
+  line-height: 5.625rem;
+  font-weight: 300;
+}
+.detailed-listings {
+  position: relative;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.trusted-partner-frame {
+  width: 1rem;
+  height: 1rem;
+  position: relative;
+  border-radius: var(--br-9xs);
+  background-color: var(--accents-sea-blue);
+}
+.link-collection,
+.text-block1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.link-collection {
+  gap: var(--gap-21xl);
+  font-size: var(--font-size-xl);
+}
+.text-block1 {
+  gap: var(--gap-5xs);
+}
+.every-detail-matters {
+  width: 14.625rem;
+  position: relative;
+  font-size: var(--desktop-menu-buttons-inactive-size);
+  color: var(--color-darkslateblue-100);
+  display: inline-block;
+}
+.image-flattened {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: var(--padding-xl) 0;
+  gap: var(--gap-45xl);
+}
+.image-flattened,
+.rectangle-container1,
+.text-block {
+  display: flex;
+  justify-content: flex-start;
+}
+.text-block {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: center;
+  gap: var(--gap-5xl);
+}
+.rectangle-container1 {
+  width: 16.125rem;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: var(--padding-61xl) 0 0;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-61xl);
+  color: var(--foundation-dark-blue);
+  font-family: var(--desktop-menu-buttons-inactive);
+}
+@media screen and (max-width: 750px) {
+  .frame-group1 {
+    font-size: var(--font-size-21xl);
+    line-height: 3.375rem;
+  }
+  .rectangle-container1 {
+    padding-top: var(--padding-33xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .frame-group1 {
+    font-size: var(--font-size-5xl);
+    line-height: 2.25rem;
+  }
+  .detailed-listings {
+    font-size: var(--desktop-menu-buttons-inactive-size);
+  }
+}

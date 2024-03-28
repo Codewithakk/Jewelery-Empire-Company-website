@@ -1,0 +1,421 @@
+.biarrow-down-icon1 {
+  height: 1.813rem;
+  width: 1.813rem;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: -0.125rem;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.pngwing-3-icon {
+  height: 21.375rem;
+  width: 21.375rem;
+  position: absolute;
+  margin: 0 !important;
+  top: 0.563rem;
+  left: -2rem;
+  object-fit: cover;
+  z-index: 2;
+}
+.new-products {
+  margin: 0;
+  font-size: inherit;
+  font-weight: 500;
+  font-family: inherit;
+}
+.get-similiar-product1,
+.new-products {
+  position: relative;
+}
+.get-similiar-product-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-8xs) 0 0;
+  font-size: var(--desktop-menu-buttons-inactive-size);
+  color: var(--color-gold);
+}
+.logical-operator1 {
+  width: 81.75rem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  max-width: 100%;
+}
+.data-aggregator-child {
+  width: 17.25rem;
+  height: 21.188rem;
+  position: relative;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-gray-500);
+  border: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+  display: none;
+}
+.earring-necklace-jewellery4 {
+  flex: 1;
+  position: relative;
+  line-height: 0.938rem;
+  text-transform: capitalize;
+  font-weight: 300;
+  z-index: 1;
+}
+.earring-necklace-jewellery-cha-frame {
+  width: 13.875rem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-12xs);
+  box-sizing: border-box;
+}
+.rs-105230 {
+  position: relative;
+  line-height: 0.938rem;
+  text-transform: capitalize;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 5.875rem;
+  z-index: 1;
+}
+.input-processor {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-12xs) 0 0;
+}
+.output-collector-icon,
+.output-collector-icon1,
+.output-collector-icon2,
+.output-collector-icon3,
+.output-collector-icon4 {
+  height: 1.063rem;
+  width: 1.063rem;
+  position: relative;
+  border-radius: var(--br-12xs-4);
+  min-height: 1.063rem;
+  z-index: 3;
+}
+.shape-set,
+.value-transformer {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.value-transformer {
+  height: 1.063rem;
+  justify-content: flex-start;
+  gap: var(--gap-11xs);
+}
+.shape-set {
+  width: 14.375rem;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  font-size: var(--font-size-lg);
+}
+.data-aggregator,
+.frame-child9 {
+  width: 17.25rem;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-gray-500);
+  border: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+}
+.data-aggregator {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: var(--padding-229xl) var(--padding-lgi) var(--padding-5xl);
+  gap: var(--gap-lgi);
+}
+.frame-child9 {
+  height: 21.188rem;
+  position: relative;
+  display: none;
+}
+.pngwing-2-icon {
+  height: 12.125rem;
+  width: 12.125rem;
+  position: relative;
+  object-fit: cover;
+  z-index: 1;
+}
+.pngwing-2-wrapper {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xl) 0 var(--padding-lg);
+}
+.earring-necklace-jewellery5 {
+  flex: 1;
+  position: relative;
+  line-height: 0.938rem;
+  text-transform: capitalize;
+  font-weight: 300;
+  z-index: 1;
+}
+.earring-necklace-jewellery-cha-wrapper1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-4xs) 0 var(--padding-12xs);
+}
+.rs-104032 {
+  position: relative;
+  line-height: 0.938rem;
+  text-transform: capitalize;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 5.875rem;
+  z-index: 1;
+}
+.rs-104032-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-12xs) 0 0;
+}
+.frame-child10,
+.frame-child11,
+.frame-child12,
+.frame-child13,
+.frame-child14 {
+  height: 1.063rem;
+  width: 1.063rem;
+  position: relative;
+  border-radius: var(--br-12xs-4);
+  min-height: 1.063rem;
+  z-index: 1;
+}
+.frame-parent11,
+.star-group {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.star-group {
+  height: 1.063rem;
+  justify-content: flex-start;
+  gap: var(--gap-11xs);
+}
+.frame-parent11 {
+  align-self: stretch;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  font-size: var(--font-size-lg);
+}
+.frame-parent10,
+.rectangle-parent1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent10 {
+  align-self: stretch;
+  gap: var(--gap-lgi);
+}
+.rectangle-parent1 {
+  height: 21.188rem;
+  width: 17.25rem;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-gray-500);
+  border: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+  padding: var(--padding-3xl) var(--padding-2xl) var(--padding-5xl);
+  gap: var(--gap-13xl);
+}
+.pngtreebow-diamond-ring-3d-el1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 14.938rem;
+  height: 14.938rem;
+  object-fit: cover;
+  display: none;
+  z-index: 1;
+}
+.anchoring-system {
+  position: absolute;
+  top: 14.063rem;
+  left: 6.063rem;
+  background-color: var(--color-gray-400);
+  width: 3rem;
+  height: 0.75rem;
+  z-index: 2;
+}
+.style-definer {
+  position: absolute;
+  top: 0;
+  left: 1.125rem;
+  width: 14.938rem;
+  height: 14.938rem;
+  background-image: url(/public/pngtreebow-diamond-ring-3d-element-5372345-1@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  z-index: 1;
+}
+.sizing-strategy-child {
+  width: 17.25rem;
+  height: 21.188rem;
+  position: relative;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-gray-500);
+  border: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+  display: none;
+}
+.earring-necklace-jewellery6 {
+  flex: 1;
+  position: relative;
+  line-height: 0.938rem;
+  text-transform: capitalize;
+  font-weight: 300;
+  z-index: 1;
+}
+.spacing-manager {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-3xs) 0 var(--padding-12xs);
+}
+.rs-220000 {
+  position: relative;
+  line-height: 0.938rem;
+  text-transform: capitalize;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 6.063rem;
+  z-index: 1;
+}
+.pattern-maker {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-12xs) 0 0;
+}
+.frame-child15,
+.frame-child16,
+.frame-child17,
+.frame-child18,
+.frame-child19 {
+  height: 1.063rem;
+  width: 1.063rem;
+  position: relative;
+  border-radius: var(--br-12xs-4);
+  min-height: 1.063rem;
+  z-index: 1;
+}
+.connector-network,
+.star-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.star-container {
+  height: 1.063rem;
+  justify-content: flex-start;
+  gap: var(--gap-11xs);
+}
+.connector-network {
+  align-self: stretch;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  font-size: var(--font-size-lg);
+}
+.sizing-strategy {
+  position: absolute;
+  top: 0.375rem;
+  left: 0;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-gray-500);
+  border: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: var(--padding-229xl) var(--padding-2xl) var(--padding-5xl);
+  gap: var(--gap-lgi);
+  height: 100%;
+}
+.style-definer-parent {
+  height: 21.5rem;
+  width: 17.188rem;
+  position: relative;
+}
+.data-aggregator-parent {
+  width: 83.938rem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  max-width: 100%;
+}
+.frame-wrapper6 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-12xs);
+  box-sizing: border-box;
+  font-size: var(--desktop-labels-label-sm-size);
+  color: var(--color-gainsboro-100);
+}
+.biarrow-down-parent,
+.frame-wrapper6,
+.logical-operator-group {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.logical-operator-group {
+  flex: 1;
+  flex-direction: column;
+  padding: 0 0 var(--padding-5xs);
+  box-sizing: border-box;
+  gap: var(--gap-lg);
+}
+.biarrow-down-parent {
+  align-self: stretch;
+  flex-direction: row;
+  position: relative;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-whitesmoke-200);
+  font-family: var(--desktop-labels-label-sm);
+}
+@media screen and (max-width: 1275px) {
+  .data-aggregator-parent {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+}
+@media screen and (max-width: 450px) {
+  .new-products {
+    font-size: var(--font-size-lgi);
+  }
+  .logical-operator1 {
+    flex-wrap: wrap;
+  }
+  .rectangle-parent1 {
+    gap: 1rem 2rem;
+  }
+}

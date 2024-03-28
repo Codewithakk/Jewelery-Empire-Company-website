@@ -1,0 +1,286 @@
+.rectangle-div {
+  height: 13.313rem;
+  width: 25.25rem;
+  position: relative;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-silver-100);
+  backdrop-filter: blur(222px);
+  display: none;
+  max-width: 100%;
+}
+.pngegg-19-1 {
+  height: 10.688rem;
+  width: 10.688rem;
+  position: relative;
+  object-fit: cover;
+  z-index: 1;
+}
+.bracelets,
+.gold {
+  margin: 0;
+}
+.gold-bracelets-container,
+.lorem-ipsum-dolor1 {
+  position: relative;
+  line-height: 1.5rem;
+  text-transform: uppercase;
+  z-index: 1;
+}
+.lorem-ipsum-dolor1 {
+  align-self: stretch;
+  font-size: var(--desktop-labels-label-sm-size);
+  line-height: 1.125rem;
+  text-transform: capitalize;
+  font-weight: 300;
+  color: var(--color-gainsboro-100);
+}
+.data-merge,
+.data-merge-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.data-merge {
+  align-self: stretch;
+  gap: var(--gap-3xs);
+}
+.data-merge-wrapper {
+  width: 11.563rem;
+  padding: var(--padding-2xl) 0 0;
+  box-sizing: border-box;
+  min-width: 11.563rem;
+}
+.frame-child1,
+.rectangle-parent {
+  border-radius: var(--br-3xs);
+  background-color: var(--color-silver-100);
+  backdrop-filter: blur(222px);
+  max-width: 100%;
+}
+.rectangle-parent {
+  flex: 0.9744;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-2xl) var(--padding-xs);
+  box-sizing: border-box;
+  gap: var(--gap-smi);
+  min-width: 18.938rem;
+}
+.frame-child1 {
+  height: 13.313rem;
+  width: 25.25rem;
+  position: relative;
+  display: none;
+}
+.pngtreebow-diamond-ring-3d-el {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 10.875rem;
+  height: 10.875rem;
+  object-fit: cover;
+  display: none;
+  z-index: 1;
+}
+.loop-control1 {
+  position: absolute;
+  top: 9.938rem;
+  left: 4.125rem;
+  background-color: var(--color-darkslategray);
+  width: 2.688rem;
+  height: 0.75rem;
+  z-index: 2;
+}
+.pngtreebow-diamond-ring-3d-el-parent {
+  height: 10.875rem;
+  width: 10.875rem;
+  position: relative;
+  background-image: url(/public/pngtreebow-diamond-ring-3d-element-5372345-2@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  min-width: 10.875rem;
+  z-index: 1;
+}
+.gold-dimonds,
+.rings {
+  margin: 0;
+}
+.gold-dimonds-container {
+  width: 9.375rem;
+  position: relative;
+  line-height: 1.5rem;
+  text-transform: uppercase;
+  display: inline-block;
+  z-index: 1;
+}
+.lorem-ipsum-dolor2 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--desktop-labels-label-sm-size);
+  line-height: 1.125rem;
+  text-transform: capitalize;
+  font-weight: 300;
+  color: var(--color-gainsboro-100);
+  z-index: 1;
+}
+.frame-wrapper3,
+.gold-dimonds-rings-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.gold-dimonds-rings-parent {
+  align-self: stretch;
+  gap: var(--gap-3xs);
+}
+.frame-wrapper3 {
+  width: 11.563rem;
+  padding: var(--padding-5xl) 0 0;
+  box-sizing: border-box;
+  min-width: 11.563rem;
+}
+.frame-child2,
+.rectangle-group {
+  border-radius: var(--br-3xs);
+  background-color: var(--color-silver-100);
+  backdrop-filter: blur(222px);
+  max-width: 100%;
+}
+.rectangle-group {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-lg) var(--padding-6xs) var(--padding-2xl);
+  box-sizing: border-box;
+  gap: var(--gap-mini);
+  min-width: 18.938rem;
+}
+.frame-child2 {
+  height: 13.313rem;
+  width: 25.25rem;
+  position: relative;
+  display: none;
+}
+.pikpng-1-icon {
+  width: 7.425rem;
+  height: 7.5rem;
+  position: relative;
+  object-fit: cover;
+  z-index: 1;
+}
+.pikpng-1-wrapper {
+  height: 7.813rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-8xs) 0 0;
+  box-sizing: border-box;
+  min-width: 7.425rem;
+}
+.bracelets1,
+.gold1 {
+  margin: 0;
+}
+.gold-bracelets-container1,
+.lorem-ipsum-dolor3 {
+  position: relative;
+  line-height: 1.5rem;
+  text-transform: uppercase;
+  z-index: 1;
+}
+.lorem-ipsum-dolor3 {
+  align-self: stretch;
+  font-size: var(--desktop-labels-label-sm-size);
+  line-height: 1.125rem;
+  text-transform: capitalize;
+  font-weight: 300;
+  color: var(--color-gainsboro-100);
+}
+.frame-parent4,
+.gold-bracelets-parent,
+.rectangle-container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.gold-bracelets-parent {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-3xs);
+  min-width: 7.5rem;
+}
+.frame-parent4,
+.rectangle-container {
+  flex-direction: row;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.rectangle-container {
+  flex: 0.8795;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-silver-100);
+  backdrop-filter: blur(222px);
+  padding: var(--padding-23xl) var(--padding-4xl) var(--padding-27xl)
+    var(--padding-19xl);
+  gap: 2.45rem;
+  min-width: 18.938rem;
+}
+.frame-parent4 {
+  align-self: stretch;
+  padding: 0 0 var(--padding-mini);
+  gap: var(--gap-47xl);
+  text-align: left;
+  font-size: var(--desktop-menu-buttons-inactive-size);
+  color: var(--color-gold);
+  font-family: var(--desktop-labels-label-sm);
+}
+@media screen and (max-width: 1275px) {
+  .frame-parent4 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 750px) {
+  .frame-parent4 {
+    gap: 4.125rem 2.063rem;
+  }
+}
+@media screen and (max-width: 450px) {
+  .data-merge-wrapper,
+  .pngegg-19-1 {
+    flex: 1;
+  }
+  .rectangle-parent {
+    flex-wrap: wrap;
+    flex: 1;
+  }
+  .frame-wrapper3,
+  .pngtreebow-diamond-ring-3d-el-parent {
+    flex: 1;
+  }
+  .rectangle-group {
+    flex-wrap: wrap;
+  }
+  .pikpng-1-icon {
+    align-self: stretch;
+    width: auto;
+  }
+  .pikpng-1-wrapper {
+    flex: 1;
+  }
+  .rectangle-container {
+    flex-wrap: wrap;
+    gap: 2.45rem 1.25rem;
+    flex: 1;
+  }
+  .frame-parent4 {
+    gap: 4.125rem 1rem;
+  }
+}

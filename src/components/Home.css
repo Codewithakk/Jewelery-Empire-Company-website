@@ -1,0 +1,399 @@
+/* Home.css */
+
+/* Add styles for links */
+.home,
+.gallery,
+.info,
+.events,
+.products,
+.store-location,
+.contact-us,
+.login {
+  color: white; /* Set default color to white */
+  text-decoration: none; /* Remove underline */
+  transition: color 0.3s; /* Smooth transition for color change */
+}
+
+/* Add styles for link hover */
+.home:hover,
+.gallery:hover,
+.info:hover,
+.events:hover,
+.products:hover,
+.store-location:hover,
+.contact-us:hover,
+.login:hover {
+  color: yellow; /* Change color to yellow when hovered over */
+}
+
+
+.logic-branch-child {
+  width: 90rem;
+  height: 14.125rem;
+  position: relative;
+  background-color: var(--color-gray-400);
+  display: none;
+  max-width: 100%;
+}
+.decision-maker {
+  position: relative;
+  display: inline-block;
+  min-width: 7.313rem;
+  white-space: nowrap;
+  z-index: 1;
+}
+.decision-maker-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-5xs) var(--padding-base) 0 0;
+}
+.search-bar-child {
+  height: 2.25rem;
+  width: 64.125rem;
+  position: relative;
+  border-radius: var(--br-18xl);
+  border: 0.8px solid var(--color-gray-100);
+  box-sizing: border-box;
+  display: none;
+  max-width: 100%;
+}
+.search-for-gold {
+  width: 20.188rem;
+  position: relative;
+  font-weight: 300;
+  display: inline-block;
+  white-space: nowrap;
+  z-index: 1;
+}
+.akar-iconssearch {
+  width: 0.875rem;
+  height: 0.875rem;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.error-handler,
+.loop-control,
+.search-bar {
+  display: flex;
+  align-items: flex-start;
+  box-sizing: border-box;
+}
+.error-handler {
+  height: 0.938rem;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: var(--padding-12xs) 0 0;
+}
+.loop-control,
+.search-bar {
+  max-width: 100%;
+}
+.search-bar {
+  align-self: stretch;
+  border-radius: var(--br-18xl);
+  border: 0.8px solid var(--color-gray-100);
+  flex-direction: row;
+  justify-content: space-between;
+  padding: var(--padding-3xs) var(--padding-6xl) var(--padding-2xs)
+    var(--padding-15xl);
+  gap: var(--gap-xl);
+  z-index: 1;
+}
+.loop-control {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 var(--padding-7xs) 0 0;
+  min-width: 41.938rem;
+  text-align: center;
+  font-size: var(--font-size-xs);
+  color: var(--color-lightgray);
+}
+.dashiconsfacebook-alt {
+  width: 1.813rem;
+  height: 1.813rem;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.parallel-processor {
+  height: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-10xs) 0 0;
+  box-sizing: border-box;
+}
+.akar-iconstwitter-fill,
+.ant-designinstagram-outlined-icon {
+  height: 1.813rem;
+  width: 1.813rem;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 1.813rem;
+  z-index: 1;
+}
+.akar-iconstwitter-fill-parent {
+  height: 1.813rem;
+  flex-direction: row;
+  gap: var(--gap-xs);
+}
+.akar-iconstwitter-fill-parent,
+.data-splitter,
+.input-container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.data-splitter {
+  flex-direction: column;
+  padding: var(--padding-10xs) 0 0;
+}
+.input-container {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: var(--gap-xs);
+  max-width: 100%;
+}
+.home {
+  position: relative;
+  text-transform: uppercase;
+  display: inline-block;
+  min-width: 3.375rem;
+  z-index: 1;
+}
+.home-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-82xl) 0 0;
+}
+.gallery {
+  position: relative;
+  text-transform: uppercase;
+  display: inline-block;
+  min-width: 5rem;
+  z-index: 1;
+}
+.gallery-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-82xl) 0 0;
+}
+.info {
+  position: relative;
+  text-transform: uppercase;
+  display: inline-block;
+  min-width: 2.688rem;
+  z-index: 1;
+}
+.info-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-82xl) 0 0;
+}
+.jewelry-empire {
+  margin: 0;
+  position: absolute;
+  top: 0.438rem;
+  left: 0;
+  font-size: inherit;
+  line-height: 2.6rem;
+  font-weight: 400;
+  font-family: inherit;
+  white-space: pre-wrap;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  flex-shrink: 0;
+  z-index: 1;
+}
+.frame-child {
+  margin-left: 100px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 4.194rem;
+  height: 3.75rem;
+  z-index: 2;
+}
+
+.je {
+  margin: 0;
+  position: absolute;
+  top: 0.438rem;
+  /* left: 1.313rem; */
+  left:7.5rem;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  min-width: 1.75rem;
+  white-space: nowrap;
+  z-index: 3;
+}
+.vector-parent {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 7.938rem;
+  width: 4.194rem;
+  font-size: var(--font-size-9xl);
+  color: var(--color-gold);
+  font-family: var(--font-high-tower-text);
+}
+.jewelry-empire-parent {
+  height: 3.75rem;
+  flex: 1;
+  position: relative;
+}
+.frame-wrapper1 {
+  width: 23.438rem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-13xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.events {
+  display: inline-block;
+  min-width: 4.438rem;
+}
+.events,
+.products,
+.store-location {
+  position: relative;
+  text-transform: uppercase;
+  z-index: 1;
+}
+.products {
+  display: inline-block;
+  min-width: 6.25rem;
+}
+.store-location {
+  
+  white-space: nowrap;
+}
+.events-parent,
+.frame-parent2 {
+  display: flex;
+
+  align-items: flex-start;
+}
+.events-parent {
+  margin: 0;
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-gainsboro-100);
+  font-family: var(--desktop-labels-label-sm);
+}
+.frame-parent2 {
+  width: 27.125rem;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-22xl);
+  max-width: 100%;
+  font-size: var(--font-size-17xl);
+  color: var(--color-whitesmoke-100);
+  font-family: var(--font-im-fell-double-pica-sc);
+}
+.contact-us {
+  position: relative;
+  text-transform: uppercase;
+  display: inline-block;
+  min-width: 7.313rem;
+  white-space: nowrap;
+  z-index: 1;
+}
+.contact-us-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-82xl) 0 0;
+}
+.login {
+  position: relative;
+  text-transform: uppercase;
+  display: inline-block;
+  min-width: 3.5rem;
+  z-index: 1;
+}
+.login-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-82xl) 0 0;
+}
+.frame-parent1,
+.logic-branch,
+.logic-branch-inner {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent1 {
+  width: 65.875rem;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.logic-branch,
+.logic-branch-inner {
+  align-self: stretch;
+  justify-content: center;
+  padding: 0 var(--padding-11xs) 0 0;
+  box-sizing: border-box;
+  font-size: var(--font-size-lg);
+}
+.logic-branch {
+  background-color: var(--color-gray-400);
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: var(--padding-5xl) var(--padding-50xl) var(--padding-mid)
+    var(--padding-52xl);
+  gap: var(--gap-7xl);
+  text-align: left;
+  font-size: var(--desktop-menu-buttons-inactive-size);
+  color: var(--color-gainsboro-100);
+  font-family: var(--desktop-labels-label-sm);
+}
+@media screen and (max-width: 1100px) {
+  .loop-control {
+    min-width: 100%;
+  }
+  .events-parent {
+    display: none;
+  }
+}
+@media screen and (max-width: 750px) {
+  .logic-branch {
+    padding-left: var(--padding-16xl);
+    padding-right: var(--padding-15xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .frame-parent2 {
+    gap: 1.25rem 2.563rem;
+  }
+}

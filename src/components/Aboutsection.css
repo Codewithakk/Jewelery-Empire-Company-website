@@ -1,0 +1,195 @@
+.advertise-child {
+  align-self: stretch;
+  width: 83.938rem;
+  position: relative;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-silver-200);
+  backdrop-filter: blur(222px);
+  display: none;
+  max-width: 100%;
+}
+.toppng-1-icon {
+  width: 15.981rem;
+  flex: 1;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+  z-index: 1;
+}
+.output-container {
+  height: 17rem;
+  width: 19.438rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-19xl) 0 0;
+  box-sizing: border-box;
+}
+.silver-dimonds-earrings {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 500;
+  font-family: inherit;
+  z-index: 1;
+}
+.frame-child8 {
+  height: 0.125rem;
+  flex: 1;
+  position: relative;
+  border-radius: var(--br-10xs);
+  background-color: var(--color-gold);
+  z-index: 1;
+}
+.rectangle-frame,
+.silver-dimonds-earrings-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.rectangle-frame {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 var(--padding-26xl) 0 var(--padding-27xl);
+}
+.silver-dimonds-earrings-parent {
+  width: 17.313rem;
+  flex-direction: column;
+  gap: var(--gap-xs);
+}
+.frame-wrapper5 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+}
+.lorem-ipsum-dolor4 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-xs);
+  line-height: 1.125rem;
+  text-transform: uppercase;
+  font-weight: 300;
+  color: var(--color-gainsboro-100);
+  white-space: pre-wrap;
+  text-align: center;
+  z-index: 1;
+}
+.frame-parent9 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-12xl);
+}
+.learn-more {
+  width: 6.75rem;
+  position: relative;
+  text-decoration: underline;
+  line-height: 1.125rem;
+  text-transform: uppercase;
+  font-weight: 500;
+  display: inline-block;
+  flex-shrink: 0;
+  min-width: 6.75rem;
+  white-space: nowrap;
+  z-index: 1;
+}
+.learn-more-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl) 0 var(--padding-2xl);
+  text-align: center;
+  font-size: var(--desktop-menu-buttons-inactive-size);
+  color: var(--color-gold);
+}
+.advertise-inner,
+.frame-parent8 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.frame-parent8 {
+  align-self: stretch;
+  align-items: flex-end;
+  gap: var(--gap-26xl);
+}
+.advertise-inner {
+  flex: 1;
+  align-items: flex-start;
+  padding: var(--padding-23xl) 0 0;
+  box-sizing: border-box;
+  min-width: 24.563rem;
+  max-width: 100%;
+}
+.pngegg-21-1 {
+  height: 19.463rem;
+  width: 22.494rem;
+  position: relative;
+  border-radius: 0 0 12.41px 0;
+  object-fit: cover;
+  max-width: 100%;
+  z-index: 1;
+}
+.advertise,
+.advertise-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.advertise {
+  flex: 1;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-silver-200);
+  backdrop-filter: blur(222px);
+  padding: var(--padding-12xs) 0.006rem 0 var(--padding-28xl);
+  gap: var(--gap-3xs);
+}
+.advertise-wrapper {
+  align-self: stretch;
+  padding: 0 0 0.788rem;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-whitesmoke-200);
+  font-family: var(--desktop-labels-label-sm);
+}
+@media screen and (max-width: 1275px) {
+  .advertise {
+    flex-wrap: wrap;
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    padding-bottom: var(--padding-12xs);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 750px) {
+  .frame-parent9 {
+    gap: 0.938rem 1.938rem;
+  }
+  .frame-parent8 {
+    gap: 1.375rem 2.813rem;
+  }
+  .advertise-inner {
+    min-width: 100%;
+  }
+}
+@media screen and (max-width: 450px) {
+  .silver-dimonds-earrings {
+    font-size: var(--font-size-lgi);
+  }
+  .rectangle-frame {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+}

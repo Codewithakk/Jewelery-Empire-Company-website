@@ -1,0 +1,104 @@
+.frame-child3 {
+  width: 17.25rem;
+  height: 21.188rem;
+  position: relative;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-gray-500);
+  border: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+  display: none;
+}
+.pngegg-20-1 {
+  height: 13.625rem;
+  width: 13.625rem;
+  position: relative;
+  object-fit: cover;
+  z-index: 1;
+}
+.pngegg-20-1-wrapper {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-4xs) 0 var(--padding-8xs);
+}
+.earring-necklace-jewellery {
+  flex: 1;
+  position: relative;
+  line-height: 0.938rem;
+  text-transform: capitalize;
+  font-weight: 300;
+  z-index: 1;
+}
+.earring-necklace-jewellery-cha-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-2xs) 0 var(--padding-12xs);
+}
+.rs-124000 {
+  position: relative;
+  line-height: 0.938rem;
+  text-transform: capitalize;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 5.875rem;
+  z-index: 1;
+}
+.series-processor {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-12xs) 0 0;
+}
+.flow-chart-processor,
+.graph-creator-icon,
+.tree-processor-child,
+.tree-processor-inner,
+.tree-processor-item {
+  height: 1.063rem;
+  width: 1.063rem;
+  position: relative;
+  border-radius: var(--br-12xs-4);
+  min-height: 1.063rem;
+  z-index: 1;
+}
+.tree-processor {
+  height: 1.063rem;
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: var(--gap-11xs);
+}
+.group-div,
+.parallel-processor1,
+.tree-processor {
+  display: flex;
+  align-items: flex-start;
+}
+.parallel-processor1 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  font-size: var(--font-size-lg);
+}
+.group-div {
+  height: 21.188rem;
+  width: 17.25rem;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-gray-500);
+  border: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: var(--padding-3xs) var(--padding-2xl) var(--padding-5xl);
+  gap: var(--gap-lgi-5);
+  text-align: left;
+  font-size: var(--desktop-labels-label-sm-size);
+  color: var(--color-gainsboro-100);
+  font-family: var(--desktop-labels-label-sm);
+}

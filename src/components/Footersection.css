@@ -1,0 +1,452 @@
+.delivery-details,
+.international-shipping,
+.useful-links {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-family: inherit;
+}
+.useful-links {
+  width: 9.294rem;
+  font-weight: 500;
+  display: inline-block;
+}
+.delivery-details,
+.international-shipping {
+  font-weight: 400;
+}
+.delivery-details {
+  width: 9.694rem;
+  display: inline-block;
+}
+.international-shipping {
+  align-self: stretch;
+}
+.find-a-store,
+.payment-options,
+.return,
+.track-your-order {
+  margin: 0;
+  width: 10.681rem;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+}
+.find-a-store,
+.return,
+.track-your-order {
+  width: 10.613rem;
+}
+.find-a-store,
+.return {
+  width: 4.156rem;
+  min-width: 4.156rem;
+}
+.find-a-store {
+  width: 7.519rem;
+  min-width: 7.519rem;
+}
+.chart-builder,
+.delivery-details-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.delivery-details-parent {
+  align-self: stretch;
+  gap: var(--gap-lg);
+  font-size: var(--font-size-xl);
+  color: var(--color-gainsboro-100);
+}
+.chart-builder {
+  width: 13.581rem;
+  gap: var(--gap-21xl);
+}
+.information {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  font-weight: 500;
+  font-family: inherit;
+}
+.blog,
+.careers {
+  display: inline-block;
+}
+.careers {
+  margin: 0;
+  width: 4.944rem;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  min-width: 4.944rem;
+}
+.blog {
+  width: 2.769rem;
+  min-width: 2.769rem;
+}
+.about-us,
+.blog,
+.help-faqs,
+.offers-details {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+}
+.offers-details {
+  align-self: stretch;
+}
+.about-us,
+.help-faqs {
+  width: 7.65rem;
+  display: inline-block;
+  min-width: 7.65rem;
+}
+.about-us {
+  width: 5.8rem;
+  min-width: 5.8rem;
+}
+.data-validator {
+  width: 8.506rem;
+  gap: var(--gap-lg);
+  font-size: var(--font-size-xl);
+  color: var(--color-gainsboro-100);
+}
+.data-validator,
+.information-parent,
+.table-manager-inner {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.information-parent {
+  align-self: stretch;
+  gap: var(--gap-21xl);
+}
+.table-manager-inner {
+  width: 8.7rem;
+  padding: var(--padding-11xs) 0 0;
+  box-sizing: border-box;
+}
+.contact-us1 {
+  margin: 0;
+  width: 8.506rem;
+  position: relative;
+  font-size: inherit;
+  font-weight: 500;
+  font-family: inherit;
+  display: inline-block;
+}
+.shape-combiner-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1.556rem;
+  height: 1rem;
+}
+.frame-child31 {
+  position: absolute;
+  top: 0.063rem;
+  left: 0;
+  width: 1.519rem;
+  height: 0.5rem;
+  z-index: 1;
+}
+.shape-combiner-parent {
+  width: 1.556rem;
+  height: 1rem;
+  position: relative;
+}
+.image-overlay {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-10xs) 0 0;
+}
+.mail-to-us {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  min-width: 6.263rem;
+}
+.image-overlay-parent {
+  width: 9.331rem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 1.513rem;
+}
+.icon-exporter,
+.vector-icon2 {
+  position: relative;
+  flex-shrink: 0;
+  debug_commit: f6aba90;
+}
+.vector-icon2 {
+  height: 1.375rem;
+  width: 1.475rem;
+}
+.icon-exporter {
+  align-self: stretch;
+  white-space: nowrap;
+}
+.chart-exporter,
+.icon-exporter-wrapper {
+  flex: 1;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.icon-exporter-wrapper {
+  flex-direction: column;
+  padding: var(--padding-10xs) 0 0;
+}
+.chart-exporter {
+  align-self: stretch;
+  flex-direction: row;
+  gap: 1.581rem;
+}
+.vector-icon3 {
+  width: 1.663rem;
+  height: 1.475rem;
+  position: relative;
+  flex-shrink: 0;
+  debug_commit: f6aba90;
+}
+.shape-exporter {
+  height: 1.575rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0.1rem 0 0;
+  box-sizing: border-box;
+}
+.chat-to-us {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  min-width: 6.656rem;
+  flex-shrink: 0;
+  debug_commit: f6aba90;
+}
+.link-exporter,
+.shape-exporter-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.shape-exporter-parent {
+  width: 9.775rem;
+  flex-direction: row;
+  gap: 1.456rem;
+}
+.link-exporter {
+  align-self: stretch;
+  flex: 1;
+  flex-direction: column;
+  gap: 1.15rem;
+}
+.frame-parent12 {
+  align-self: stretch;
+  flex: 1;
+  gap: var(--gap-mini);
+  font-size: var(--font-size-xl);
+  color: var(--color-gainsboro-100);
+}
+.contact-us-parent,
+.frame-parent12,
+.shape-splitter {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.contact-us-parent {
+  align-self: stretch;
+  flex: 1;
+  gap: var(--gap-27xl);
+}
+.shape-splitter {
+  height: 11.663rem;
+  width: 14.2rem;
+  padding: var(--padding-11xs) 0 0;
+  box-sizing: border-box;
+}
+.download-the-apps {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  font-weight: 500;
+  font-family: inherit;
+}
+.image-reflector {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 0.394rem;
+}
+.pngegg-18-2 {
+  width: 12.394rem;
+  height: 7.831rem;
+  position: relative;
+  object-fit: cover;
+}
+.follow-us-on {
+  align-self: stretch;
+  position: relative;
+  display: inline-block;
+  min-width: 6.525rem;
+}
+.image-resizer {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-5xs) 0 0;
+}
+.akar-iconstwitter-fill1,
+.ant-designinstagram-outlined-icon1,
+.dashiconsfacebook-alt1 {
+  height: 1.569rem;
+  width: 1.656rem;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 1.563rem;
+}
+.data-aggregator2 {
+  height: 1.569rem;
+  flex: 1;
+  gap: 0.681rem;
+}
+.data-aggregator2,
+.image-resizer-parent,
+.shape-merger {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.image-resizer-parent {
+  flex: 1;
+  gap: 1.712rem;
+}
+.shape-merger {
+  align-self: stretch;
+  padding: 0 0 0 0.331rem;
+}
+.data-merger {
+  width: 14.9rem;
+  flex: 1;
+  gap: 1.794rem;
+  font-size: var(--desktop-menu-buttons-inactive-size);
+}
+.data-merger,
+.image-reflector-parent,
+.shape-importer {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.image-reflector-parent {
+  align-self: stretch;
+  flex: 1;
+  gap: var(--gap-21xl);
+}
+.shape-importer {
+  height: 15.75rem;
+  width: 15.625rem;
+  padding: var(--padding-11xs) 0 0;
+  box-sizing: border-box;
+}
+.label-maker1,
+.table-manager {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.table-manager {
+  flex: 1;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.label-maker1 {
+  align-self: stretch;
+  justify-content: flex-start;
+  padding: 0 var(--padding-29xl) var(--padding-22xl) var(--padding-27xl);
+  box-sizing: border-box;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--color-gold);
+  font-family: var(--desktop-labels-label-sm);
+}
+@media screen and (max-width: 750px) {
+  .label-maker1 {
+    padding-left: var(--padding-4xl);
+    padding-right: var(--padding-5xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .useful-links {
+    font-size: var(--font-size-lgi);
+  }
+  .delivery-details,
+  .find-a-store,
+  .international-shipping,
+  .payment-options,
+  .return,
+  .track-your-order {
+    font-size: var(--desktop-menu-buttons-inactive-size);
+  }
+  .information {
+    font-size: var(--font-size-lgi);
+  }
+  .about-us,
+  .blog,
+  .careers,
+  .help-faqs,
+  .offers-details {
+    font-size: var(--desktop-menu-buttons-inactive-size);
+  }
+  .contact-us1 {
+    font-size: var(--font-size-lgi);
+  }
+  .chat-to-us,
+  .icon-exporter,
+  .mail-to-us {
+    font-size: var(--desktop-menu-buttons-inactive-size);
+  }
+  .download-the-apps {
+    font-size: var(--font-size-lgi);
+  }
+  .image-reflector-parent {
+    gap: 1.25rem 2.5rem;
+  }
+}
